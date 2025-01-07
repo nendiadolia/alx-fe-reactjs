@@ -12,7 +12,7 @@ function App (){
       <Header />
       <MainContent /> 
       <WelcomeMessage />
-      <UserProfile name="alice" age="25" bio="love hiking and photography" />
+      <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
     </div>
   )
 }
